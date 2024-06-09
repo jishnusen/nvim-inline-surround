@@ -3,7 +3,7 @@ usage:
 for best effects, set the concealcursor/level for the filetypes you wish to use
 the plugin with.
 ```vim
-autocmd FileType tex set conceallevel=2 concealcursor=nciv
+autocmd FileType tex set conceallevel=2 concealcursor=nci
 ```
 
 setup:
